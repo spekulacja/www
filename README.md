@@ -10,10 +10,19 @@ Inny wpływ na nieprawidłowe wnioskowanie ma analizowanie spekulacji i inwestyc
 
 ## Obecne Definicje
 
+hazard - spekulacja - handel - inwestycja - rentierstwo - usługi - produkcja
+
+hazard - spekulacja
+spekulacja - inwestycja
+handel (usługa wymiany) - produkcja (usługa wytwarzania)
+? usługi - produkcja
+rentierstwo - inwestycja
+
 Natura spekulacji jest niezmienna od przedmiotu, czasu, obiektywnej wartości.
 Natura spekulacji jest bezpośrednio związana z ceną, czym różni się od handlu, gdzie może istnieć handel wymienny.
 Spekulacja nie chce wchodzić w wartość a kieruje się bezpośrednio w kupujących, bo jej celem jest sprzedaż za najwyższą kwotę.
 Inwestycja też ma na celu osiągnięcie najwyższej kwoty zwrotu, ale kieruje się na wartość tego co sprzedajemy a nie na kupujących.
+dzięki czemu jest jej bliżej do rentierstwa, gdzie osiąga się korzyści z realnie dostarczanej wartości, np przy wynajmie danej rzeczy.
 
 dlatego istnienie sztucznych warunków, uzgodnionych w prawie danej społeczności nie sprawia, że spekulacja przestaje nią być.
 Spekulacja dąży do monopolizacji, by mieć jak największy wpływ na podwyższenie ceny.
