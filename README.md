@@ -158,7 +158,8 @@ zależna od siły uczestników, rzadko zdarza się by marny gracz wygrywał w sp
 
 #### Przykłady 
 + sportowe zakłady bukmacherskie: obstawianie koni, zespołów
-
++ ubezpieczenia: samochodowe, zdrowotne na życie 
++ polisy
 
 ### hazard z ludźmi, bez pośrednika 
 mała grupa ludzi, brak pośrednika
