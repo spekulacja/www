@@ -3,18 +3,33 @@ Wyjaśnienie znaczenia spekulacji na podstawie źródeł i analizy atrybutów
 
 ## Motywacja
 w związku z częstymi błędami w nazewnictwie i odróżnianiu spekulacji od inwestycji warto rozwinąć 
-i opisać w szeregu analizach i przykładach te definicje, aby każdy miał szanse sprawdzić co jets a co nie jest spekulacją i inwestycją.
+i opisać w szeregu analizach i przykładach te definicje, aby każdy miał szanse sprawdzić co jest a co nie jest spekulacją i inwestycją.
 Ludzie często posługują się nietrafionymi przykładami kierując się intuicją.
 Wpływ na definicję ma kultura, gdzie uznaje się spekulację za naganną czynność a inwestycję za pozytywną i godną pochwały.
 
 ## Obecne Definicje
 
+#### Spekulacja odnosi się do ceny a nie do czasu
+ma za zadanie w dowolnym okresie czasu pobranie większej kwoty za tę samą rzecz bez podoszenia jej wartości:
+handel - cel sprzedaż po wyższej cenie, skrajność bycie monopolistą lub uczestniczenie w zmowie cenowej
+lichwa - usługi bankowe, kredyty
+
+Manipulacja na wartości to oszustwo
+Kupujący nie jest poinformowany o wadach produktu
+Spekulacja na zaniżenie ceny to: dumping cenowy
+
 ### Stereotypy
-Spekulacja odnosi się do ceny
-Spekulacja to krótki okres a inwestycja to dłuższy okres
+
+#### Spekulacja to krótki okres a inwestycja to dłuższy okres zwrotu z włożonych środków
+
+#### Spekulacja to przeciwieństwo inwestycji
+
+### Inwestycja
+przeciwieństwo konsumpcji
+
 
 ### Kiedy hazard ma miejsce, motywacja grającego
-to jednostronnaa czynność, gdzie sprzedający oferuje grę
+to jednostronna czynność, gdzie sprzedający oferuje grę
 kupujący się godzi na nią, 
 szansa wygranej zależna jest od zmanipulowania gry przez dostawcę oraz ilość prób
 większa ilość prób może sprawić że wygramy
