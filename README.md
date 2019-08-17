@@ -29,7 +29,21 @@ częsta sytuacja, gdy jest monopolista i konsument jest tego świadomy
 By sprzedać/wymienić usługę/produkt nie informując drugiej strony o stanie faktycznym
 + druga strona nie jest świadoma tego, ma inne oczekiwania względem wartości, która jej została dostarczona
 
+### Wnioski
 
+Z powyższej analizy wyłania się obraz, że każde działanie może prowadzić do
+
+#### oszustwa, jeśli kupujący nie ma wiedzy o wartości
+  wie, że usługa/produkt posiada ukrytą wadę
+
+#### spekulacja, gdy kupujący nie ma wiedzy o cenie
+  godzi się na (zawyżoną) cenę, bo wie, że otrzyma określoną jakość
+  sprzedający korzysta z chwilowej przewagi miejsca i czasu
+
+#### inwestycja, gdy kupujący ma zamiar wykorzystać produkt wykorzystując go do stworzenia innego produktu/usługi
+
+
+mimo wszystko spekulacja 
 
 
 ## Atrybuty spekulacji i inwestycji
@@ -70,6 +84,9 @@ włożenie zadeklarowanej kwoty
 czekanie na wynik typowanego zdarzenia
 #### Mnożnik wygrania
 średni 1x100
+#### Szansa wygrania 
+zależna od siły uczestników, rzadko zdarza się by marny gracz wygrywał w sporcie, dlatego obstawianie ich jest obarczone wysoką wygraną (ryzykiem)
+
 #### Przykłady 
 + sportowe zakłady bukmacherskie: obstawianie koni, zespołów
 
@@ -77,10 +94,44 @@ czekanie na wynik typowanego zdarzenia
 ### hazard z ludźmi, bez pośrednika 
 mała grupa ludzi, brak pośrednika
 #### Przykłady 
-+ gra poker
++ gra w pokera
 
 
 ### handel 
 
+#### Szansa wygrania
+prawie zawsze, zależna od tego komu, kiedy, gdzie i jak się sprzedaje wartość
+oraz od uczestników, gdyż czym większa ilość sprzedających tym niższa cena
+im więcej kupujących tym wyższa realna cena
+#### Ryzyko
+dla kupujących gdy jest tylko jeden sprzedawca: monopolista
+lub wielu, którzy zmówili się, że będą sprzedawać o wcześniej uzgodnionej zawyżonej cenie.
+
+#### Wartość
+dostarczenie towaru bliżej klienta, w czasie kiedy potrzebuje dzięki temu oszczędza na transporcie i czasie
+w przypadku zakupu hurtowego możliwość dalszej odsprzedaży
+
 #### Przykłady 
 + ebay
++ targowisko
++ hurtowania
++ sklep 
++ stragan
+
+
+### Usługa
+dostarczenie usługi konkretnemu odbiorcy w konkretnej jakości
+
+
+
+
+### Produkcja 
+
+
+#### Szansa wygrania
+
+#### Ryzyko
+
+#### Wartość
+
+#### Przykłady 
