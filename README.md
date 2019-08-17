@@ -39,8 +39,10 @@ handel - usługa wymiany towarów, cel sprzedaż po wyższej cenie, skrajność 
 lichwa - usługi wymiany pieniądza, bankowe, kredyty
 
 #### Oszustwo
-Manipulacja na wartości to oszustwo, dotyczy wartości obiektywnej i subiektywnej na obserwatorach rynku
 Kupujący nie jest poinformowany o wadach produktu
+Wartość produktu jest niższa niż deklarowana.
+Spekulacja nie ma tu miejsca, bo nie wchodzi w ingerencję dotyczącą wartości, skupia się tylko na odbiorze wartości przez kupujących a nie na jej realnej wartości.
+Np. kupno towaru przeterminowanego bez informacji o tym.
 
 #### Spekulacja ceny
 podwyższenie ceny wykorzystując monopol lub zmowę cenową w przypadku wielu sprzedawców
