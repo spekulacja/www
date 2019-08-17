@@ -78,9 +78,10 @@ większa ilość prób może sprawić że wygramy
 Ilość wygranej jest zależna od ilości wcześniej grających (przegranych, kumulacja)
 
 ### Kiedy spekulacja ma miejsce, motywacja sprzedającego, oczekiwania kupującego
-Każdy kto zawyżyć wartość względem faktycznej wartości mając na uwadze określone warunki w czasie i miejscu.
-+ każdy jest świadomy sytuacji, wie że cena jest zawyżona ale godzi się na nią, bo nie ma alternatywy, 
-częsta sytuacja, gdy jest monopolista i konsument jest tego świadomy
+Zawyżenie ceny bez podniesienia wartości usługi/produktu. 
+Tym różni się od handlu, gdzie wartością jest dostarczenie produktu bliżej kupującego w czasie i miejscu.
+Przy spekulacji każdy jest świadomy sytuacji, wie że cena jest zawyżona ale godzi się na nią, bo nie ma alternatywy, 
+częsta sytuacja, gdy jest monopolista.
 
 ### Kiedy oszustwo ma miejsce, motywacja sprzedającego
 By sprzedać/wymienić usługę/produkt nie informując drugiej strony o stanie faktycznym
