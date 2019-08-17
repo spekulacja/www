@@ -10,7 +10,7 @@ Inny wpływ na nieprawidłowe wnioskowanie ma analizowanie spekulacji i inwestyc
 
 ## Pokrewne definicje
 
-hazard - spekulacja - handel - inwestycja - rentierstwo - usługi - produkcja
+hazard - spekulacja - handel - inwestycja - rentierstwo - produkcja - usługi (praca na zlecenie) - etat (praca na czas)
 
 ### hazard - spekulacja
 
