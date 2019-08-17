@@ -31,7 +31,7 @@ wykorzystując fakt popytu i podaży, pomiędzy tym co jest na rynku a tym co ch
 Celem inwestycji jest zwiększenie wartości i na tej podstawie zwiększenie ceny produktu/usługi
 Producent, usługodawca jest inwestorem, gdyż chce podwyższyć obiektywną wartość, sprzedając coś co bez jego ingerencji nie miało by wyższej wartości
 
-Inwestycja nie jest spekulacją/handlem, gdy celem jej zakupu jest nie dalsza odsprzedaż a wykorzystanie przychodów z wykorzystania nabytego dobra (nierouchomości - czynsz)
+Inwestycja nie jest spekulacją/handlem, gdy celem jej zakupu jest nie dalsza odsprzedaż a wykorzystanie przychodów z wykorzystania nabytego dobra (nieruchomości - czynsz)
 
 ### Spekulacja a wykonywanie usług/produkcji dóbr
 spekulacja nie zakłada ingerowanie w wartość a ingerowanie w przekonanie o wartości potencjalnych kupujących
