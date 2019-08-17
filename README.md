@@ -138,7 +138,7 @@ duży 1x100000
 + loteria
 + maszyna losująca liczby
 + maszyny gier
-+ roletka
++ ruletka
 ...
 
 
@@ -158,8 +158,12 @@ zależna od siły uczestników, rzadko zdarza się by marny gracz wygrywał w sp
 
 #### Przykłady 
 + sportowe zakłady bukmacherskie: obstawianie koni, zespołów
-+ ubezpieczenia: samochodowe, zdrowotne na życie 
+#### Specyficzne formy hazardu 
+w przypadku, gdy zdarzenie nie ma miejsca, nie otrzymujemy zwrotu: śmierć, wypadek
++ ubezpieczenia: samochodowe, zdrowotne na życie, ZUS, KRUS, 
 + polisy
+
+
 
 ### hazard z ludźmi, bez pośrednika 
 mała grupa ludzi, brak pośrednika
