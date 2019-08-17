@@ -222,16 +222,21 @@ dla odbiorcy usług, możliwość zainwestowania w proukty pozwalające uzyskani
 ### Wynagrodzenie za zlecenie
 usługi wykonywane określonej usługi, towaru w określonym czasie za określoną cenę, bez określenia nakładu pracy
 
-#### Szansa wygrania
+
+#### Ryzyko
 ryzykiem jest umowa, czas wykonania, pracochłonność, 
 warunki zewnętrzne, 
 nieprawidłowe oszacowanie kosztów
 
-#### Ryzyko
-utrata pieniędzy
+#### Korzyści dla wykonawcy
++ możliwość wyspecjalizowania się w konkretnych pracach
++ możliwość dostarczania wielu różnym odbiorcom tej samej wysokiej jakości usługi
++ możliwości zarobkowe zależą od ilości ludzi i automatyzacji
 
 #### Wartość
-dla odbiorcy usług
+dla odbiorcy usług szybsze dostarczenie i łatwiejsze zarządzanie w przypadku zleceń b2b
++ brak potrzeby zatrudniana pracowników na wykonanie zdefiniowanej pracy
++ możliwość nabycia profesjonalnej usługi od wyspecjalizowanej firmy
 
 #### Przykłady 
 ...
@@ -244,8 +249,12 @@ usługi wykonywane przez człowieka w określonym czasie za określoną cenę
 zawsze
 
 #### Ryzyko
-utrata zdrowia
-ograniczony czas
++ utrata zdrowia
++ ograniczony czas życia, ograniczone zarobki
++ łatwo policzyć możliwości zarobkowe jednostki w ciągu całego życia
++ wykonywanie osobiście
++ wysokie opodatkowanie pracy
++ konieczność wykonywania osobiście
 
 #### Wartość
 dla odbiorcy usług, zatrudniającego poprzez delegowanie i możność zarządzania, skalowania, automatyzacji
