@@ -155,21 +155,23 @@ mała grupa ludzi, brak pośrednika
 
 
 ### handel 
+usługa wymiany towarów
 
 #### Szansa wygrania
 prawie zawsze, zależna od tego komu, kiedy, gdzie i jak się sprzedaje wartość
 oraz od uczestników, gdyż czym większa ilość sprzedających tym niższa cena
 im więcej kupujących tym wyższa realna cena
+
 #### Ryzyko
-dla kupujących gdy jest tylko jeden sprzedawca: monopolista
-lub wielu, którzy zmówili się, że będą sprzedawać o wcześniej uzgodnionej zawyżonej cenie.
+dla kupujących gdy jest tylko jeden sprzedawca: monopolista lub gdy wielu sprzedających, którzy zmówili się, że będą sprzedawać o wcześniej uzgodnionej zawyżonej cenie.
+Ryzyko dla sprzedającego, gdy jest duża konkurencja, duża ilość tych samych produktów na rynku, niższa cena.
 
 #### Wartość
 dostarczenie towaru bliżej klienta, w czasie kiedy potrzebuje dzięki temu oszczędza na transporcie i czasie
 w przypadku zakupu hurtowego możliwość dalszej odsprzedaży
 
 #### Przykłady 
-+ ebay
++ sprzedaż w internecie rzeczy używanych i nowych od pośrednika/producenta
 + targowisko
 + hurtowania
 + sklep 
@@ -182,13 +184,52 @@ dostarczenie usługi konkretnemu odbiorcy w konkretnej jakości
 
 
 
-### Produkcja 
 
+### Produkcja 
+usługa wytwarzania towarów
 
 #### Szansa wygrania
+w zależności od popytu
 
 #### Ryzyko
+z reguły zysk kilka - kilkadziesiąt procent
+Ryzyku w dostawie surowców, zależne od konkretnych warunków
 
 #### Wartość
+dla odbiorcy usług, możliwość zainwestowania w proukty pozwalające uzyskanie w drodze usług
+
+#### Przykłady 
+
+
+
+### Wynagrodzenie za zlecenie
+usługi wykonywane określonej usługi, towaru w określonym czasie za określoną cenę, bez określenia nakładu pracy
+
+#### Szansa wygrania
+ryzykiem jest umowa, czas wykonania, pracochłonność, 
+warunki zewnętrzne, 
+nieprawidłowe oszacowanie kosztów
+
+#### Ryzyko
+utrata pieniędzy
+
+#### Wartość
+dla odbiorcy usług
+
+#### Przykłady 
+
+
+### Wynagrodzenie za czas
+usługi wykonywane przez człowieka w określonym czasie za określoną cenę
+
+#### Szansa wygrania
+zawsze
+
+#### Ryzyko
+utrata zdrowia
+ograniczony czas
+
+#### Wartość
+dla odbiorcy usług, zatrudniającego poprzez delegowanie i możność zarządzania, skalowania, automatyzacji
 
 #### Przykłady 
