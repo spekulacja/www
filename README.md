@@ -12,10 +12,12 @@ Inny wpływ na nieprawidłowe wnioskowanie ma analizowanie spekulacji i inwestyc
 
 hazard - spekulacja - handel - inwestycja - rentierstwo - usługi - produkcja
 
-hazard - spekulacja
-spekulacja - inwestycja
-handel (usługa wymiany) - produkcja (usługa wytwarzania)
-? usługi - produkcja
+### hazard - spekulacja
+
+### spekulacja - inwestycja
+
+### handel (usługa wymiany) - produkcja (usługa wytwarzania)
+
 ### rentierstwo - inwestycja
 
 Rentier - osoba utrzymująca się z dochodów płynących od posiadanej własności, wcześniej wytworzonej lub nabytej.
@@ -23,6 +25,7 @@ Rentier - osoba utrzymująca się z dochodów płynących od posiadanej własno�
 Rentierstwo jest skrajną formą inwestycji, nie zakładającej odsprzedaży a korzystania z wypożyczania tej własności.
 + długoterminowa
 + nastawiona na czerpanie korzyści z zakupionego dobra jak najdłużej
+
 
 ## Natura spekulacji
 
@@ -136,6 +139,8 @@ duży 1x100000
 + maszyna losująca liczby
 + maszyny gier
 + roletka
+...
+
 
 ### hazard z ludźmi i pośrednikiem
 z ludźmi i pośrednikiem
@@ -159,6 +164,7 @@ zależna od siły uczestników, rzadko zdarza się by marny gracz wygrywał w sp
 mała grupa ludzi, brak pośrednika
 #### Przykłady 
 + gra w pokera
+...
 
 
 ### handel 
@@ -185,10 +191,14 @@ w przypadku zakupu hurtowego możliwość dalszej odsprzedaży
 + stragan
 
 
+
 ### Usługa
 dostarczenie usługi konkretnemu odbiorcy w konkretnej jakości
-
-
+#### specyficzne usługi:
++ usługa wymiany: handel
++ usługa wytwarzania: produkcja
+  + wytwarzanie w zależności od kwoty: umowa zlecenia
+  + wytwarzanie w zależności od czasu: umowa o pracę
 
 
 
@@ -206,7 +216,7 @@ Ryzyku w dostawie surowców, zależne od konkretnych warunków
 dla odbiorcy usług, możliwość zainwestowania w proukty pozwalające uzyskanie w drodze usług
 
 #### Przykłady 
-
+...
 
 
 ### Wynagrodzenie za zlecenie
@@ -224,6 +234,7 @@ utrata pieniędzy
 dla odbiorcy usług
 
 #### Przykłady 
+...
 
 
 ### Wynagrodzenie za czas
@@ -240,3 +251,5 @@ ograniczony czas
 dla odbiorcy usług, zatrudniającego poprzez delegowanie i możność zarządzania, skalowania, automatyzacji
 
 #### Przykłady 
+...
+
