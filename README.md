@@ -26,6 +26,16 @@ Spekulacja na zaniżenie ceny to: dumping cenowy
 
 ### Inwestycja
 przeciwieństwo konsumpcji
+ma za zadanie realny wzrost wartości i w ten sposób przy tych samych parametrach rynku zwiększenie realnej ceny, 
+wykorzystując fakt popytu i podaży, pomiędzy tym co jest na rynku a tym co chcieli by zakupić uczestnicy rynku.
+Celem inwestycji jest zwiększenie wartości i na tej podstawie zwiększenie ceny produktu/usługi
+Producent, usługodawca jest inwestorem, gdyż chce podwyższyć obiektywną wartość, sprzedając coś co bez jego ingerencji nie miało by wyższej wartości
+
+### Spekulacja a wykonywanie usług/produkcji dóbr
+spekulacja nie zakłada ingerowanie w wartość a ingerowanie w przekonanie o wartości potencjalnych kupujących
+Celem spekulacji jest uzyskanie jak najwyższej ceny bez dodawania wartości w produkt/usługę
+
+Handlowiec jest spekulantem, gdyż nie zamierza zwiększać wartości, zyskując na różnicy cen w różnych miejscach i czasie.
 
 
 ### Kiedy hazard ma miejsce, motywacja grającego
