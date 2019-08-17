@@ -6,8 +6,20 @@ w związku z częstymi błędami w nazewnictwie i odróżnianiu spekulacji od in
 i opisać w szeregu analizach i przykładach te definicje, aby każdy miał szanse sprawdzić co jest a co nie jest spekulacją i inwestycją.
 Ludzie często posługują się nietrafionymi przykładami kierując się intuicją.
 Wpływ na definicję ma kultura, gdzie uznaje się spekulację za naganną czynność a inwestycję za pozytywną i godną pochwały.
+Inny wpływ na nieprawidłowe wnioskowanie ma analizowanie spekulacji i inwestycji pod kątem nazewnictwa i procesów historycznych oraz czasu a nie na naturę, niezmienną od czasu, będącą funkcją, gdzie wynik zawsze będzie jednoznaczny.
 
 ## Obecne Definicje
+
+Natura spekulacji jest niezmienna od przedmiotu, czasu, obiektywnej wartości.
+Natura spekulacji jest bezpośrednio związana z ceną, czym różni się od handlu, gdzie może istnieć handel wymienny.
+Spekulacja nie chce wchodzić w wartość a kieruje się bezpośrednio w kupujących, bo jej celem jest sprzedaż za najwyższą kwotę.
+Inwestycja też ma na celu osiągnięcie najwyższej kwoty zwrotu, ale kieruje się na wartość tego co sprzedajemy a nie na kupujących.
+
+dlatego istnienie sztucznych warunków, uzgodnionych w prawie danej społeczności nie sprawia, że spekulacja przestaje nią być.
+Spekulacja dąży do monopolizacji, by mieć jak największy wpływ na podwyższenie ceny.
+Dlatego patenty, licencje mają cechy spekulacji
+handel tylko wtedy, gdy dąży do pogrążenia innych handlujących lub na wykorzystaniu monopolu poprzez usunięcie konkurencyjnych uczestników rynku poprzez zmowę cenową (obniżenie/podwyższenie ceny)
+
 
 #### Spekulacja odnosi się do ceny a nie do czasu
 ma za zadanie w dowolnym okresie czasu pobranie większej kwoty za tę samą rzecz bez podoszenia jej wartości:
