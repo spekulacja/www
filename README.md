@@ -92,16 +92,16 @@ By sprzedać/wymienić usługę/produkt nie informując drugiej strony o stanie 
 Z powyższej analizy wyłania się obraz, że każde działanie może prowadzić do
 
 #### oszustwa, jeśli kupujący nie ma wiedzy o wartości
-  wie, że usługa/produkt posiada ukrytą wadę
+usługa/produkt posiada ukrytą wadę
 
-#### spekulacja, gdy kupujący nie ma wiedzy o cenie
+#### spekulacja, gdy kupujący ma wiedzę o wartości i zawyżonej cenie
   godzi się na (zawyżoną) cenę, bo wie, że otrzyma określoną jakość
-  sprzedający korzysta z chwilowej przewagi miejsca i czasu
+  sprzedający korzysta z chwilowej przewagi czasu, 
+w przypadku handlu moze mieć miejsce sprzedaż w godzinach nocnych np na stacjach paliw, wówczas to czysta spekulacja, gdyż towar ma zawyżoną cenę w określonym czasie, mimo, że miejsce dostawy się nie zmienia.
 
-#### inwestycja, gdy kupujący ma zamiar wykorzystać produkt wykorzystując go do stworzenia innego produktu/usługi
 
-
-mimo wszystko spekulacja 
+#### inwestycja
+gdy kupujący ma zamiar wykorzystać produkt wykorzystując go do stworzenia innego produktu/usługi
 
 
 ## Atrybuty spekulacji i inwestycji
