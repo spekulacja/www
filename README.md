@@ -16,7 +16,13 @@ hazard - spekulacja
 spekulacja - inwestycja
 handel (usługa wymiany) - produkcja (usługa wytwarzania)
 ? usługi - produkcja
-rentierstwo - inwestycja
+### rentierstwo - inwestycja
+
+Rentier - osoba utrzymująca się z dochodów płynących od posiadanej własności, wcześniej wytworzonej lub nabytej.
+
+Rentierstwo jest skrajną formą inwestycji, nie zakładającej odsprzedaży a korzystania z wypożyczania tej własności.
++ długoterminowa
++ nastawiona na czerpanie korzyści z zakupionego dobra jak najdłużej
 
 ## Natura spekulacji
 
