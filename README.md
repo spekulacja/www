@@ -8,7 +8,7 @@ Ludzie często posługują się nietrafionymi przykładami kierując się intuic
 Wpływ na definicję ma kultura, gdzie uznaje się spekulację za naganną czynność a inwestycję za pozytywną i godną pochwały.
 Inny wpływ na nieprawidłowe wnioskowanie ma analizowanie spekulacji i inwestycji pod kątem nazewnictwa i procesów historycznych oraz czasu a nie na naturę, niezmienną od czasu, będącą funkcją, gdzie wynik zawsze będzie jednoznaczny.
 
-## Obecne Definicje
+## Pokrewne definicje
 
 hazard - spekulacja - handel - inwestycja - rentierstwo - usługi - produkcja
 
@@ -18,9 +18,11 @@ handel (usługa wymiany) - produkcja (usługa wytwarzania)
 ? usługi - produkcja
 rentierstwo - inwestycja
 
+## Natura spekulacji
+
 Natura spekulacji jest niezmienna od przedmiotu, czasu, obiektywnej wartości.
 Natura spekulacji jest bezpośrednio związana z ceną, czym różni się od handlu, gdzie może istnieć handel wymienny.
-Spekulacja nie chce wchodzić w wartość a kieruje się bezpośrednio w kupujących, bo jej celem jest sprzedaż za najwyższą kwotę.
+Spekulacja nie chce wchodzić w wartość a kieruje się bezpośrednio w kupujących, bo jej celem jest sprzedaż za najwyższą cenę.
 Inwestycja też ma na celu osiągnięcie najwyższej kwoty zwrotu, ale kieruje się na wartość tego co sprzedajemy a nie na kupujących.
 dzięki czemu jest jej bliżej do rentierstwa, gdzie osiąga się korzyści z realnie dostarczanej wartości, np przy wynajmie danej rzeczy.
 
@@ -30,14 +32,19 @@ Dlatego patenty, licencje mają cechy spekulacji
 handel tylko wtedy, gdy dąży do pogrążenia innych handlujących lub na wykorzystaniu monopolu poprzez usunięcie konkurencyjnych uczestników rynku poprzez zmowę cenową (obniżenie/podwyższenie ceny)
 
 
+
 #### Spekulacja odnosi się do ceny a nie do czasu
 ma za zadanie w dowolnym okresie czasu pobranie większej kwoty za tę samą rzecz bez podoszenia jej wartości:
-handel - cel sprzedaż po wyższej cenie, skrajność bycie monopolistą lub uczestniczenie w zmowie cenowej
-lichwa - usługi bankowe, kredyty
+handel - usługa wymiany towarów, cel sprzedaż po wyższej cenie, skrajność bycie monopolistą lub uczestniczenie w zmowie cenowej
+lichwa - usługi wymiany pieniądza, bankowe, kredyty
 
-Manipulacja na wartości to oszustwo
+#### Oszustwo
+Manipulacja na wartości to oszustwo, dotyczy wartości obiektywnej i subiektywnej na obserwatorach rynku
 Kupujący nie jest poinformowany o wadach produktu
-Spekulacja na zaniżenie ceny to: dumping cenowy
+
+#### Spekulacja ceny
+podwyższenie ceny wykorzystując monopol lub zmowę cenową w przypadku wielu sprzedawców
+zaniżenie ceny poniżej obiekwtywnej wartości to: dumping cenowy, mający na celu doprowadzenie do monopolu
 
 ### Stereotypy
 
@@ -46,8 +53,8 @@ Spekulacja na zaniżenie ceny to: dumping cenowy
 #### Spekulacja to przeciwieństwo inwestycji
 
 ### Inwestycja
-przeciwieństwo konsumpcji
-ma za zadanie realny wzrost wartości i w ten sposób przy tych samych parametrach rynku zwiększenie realnej ceny, 
+Inwestycja to przeciwieństwo konsumpcji.
+Inwestycja ma za zadanie realny wzrost wartości i w ten sposób (przy tych samych parametrach rynku) zwiększenie realnej ceny, 
 wykorzystując fakt popytu i podaży, pomiędzy tym co jest na rynku a tym co chcieli by zakupić uczestnicy rynku.
 Celem inwestycji jest zwiększenie wartości i na tej podstawie zwiększenie ceny produktu/usługi
 Producent, usługodawca jest inwestorem, gdyż chce podwyższyć obiektywną wartość, sprzedając coś co bez jego ingerencji nie miało by wyższej wartości
