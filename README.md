@@ -52,9 +52,7 @@ w odniesieniu do częstych definicji, które zakładają, że spekulacja to każ
 
 Rentier - osoba utrzymująca się z dochodów płynących od posiadanej własności, wcześniej wytworzonej lub nabytej.
 
-Rentierstwo jest skrajną formą inwestycji, nie zakładającej odsprzedaży a korzystania z wypożyczania tej własności.
-+ długoterminowa
-+ nastawiona na czerpanie korzyści z zakupionego dobra jak najdłużej
+Rentierstwo jest skrajną formą inwestycji, nie zakładającej odsprzedaży a korzystania z wypożyczania tej własności  długoterminowo, nastawiona na czerpanie korzyści z zakupionego dobra jak najdłużej.
 
 
 ## Natura spekulacji
