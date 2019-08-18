@@ -388,3 +388,9 @@ wymiana 1:1
 ### Negatywny wydźwięk
 Na polu religijnym i moralnym spekulacja jest postrzegana negatywnie jako zachowanie egoistyczne, ponieważ może spowodować poważne szkody dla realnej gospodarki i wspólnego dobra
 
+
+### Definicje, które odbiegają od zasad logiki:
+data publikacji: 2 Lipca 2010
+autor: Maciej Bitner
+https://www.nbportal.pl/wiedza/artykuly/na-poczatek/spekulacje-i-arbitraz-a-system0cen
+
