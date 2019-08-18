@@ -360,3 +360,8 @@ ale gdy ktoś o nią zapyta a my znając odbiorcę i jego możliwości finansowe
 ### Od wymiany do ...
 wymiana towarow, czyli handel słuzy odsprzedazy za wyzsza cene i nie ma tu spekulacji, ona powstaje wtedy, gdy chcesz wplynac na wzrost ceny na rynku bez zmiany wartosci, spekulacja odnosi sie do "mozliwosci" podwyzszenia ceny za towar w ograniczonym czasie i miejscu i ma miejsce wielokrotnie w monopolu, w tym miejscu ludzie myla to z inwestycja, a inwestycja nie polega na przechiwaniu wartosci tylko na wykorzystaniu tej wartosci do wytworzenia innej wartosci. to jest trudne zagadnienie, jak dumping cenowy, ktory moze byc efektem nierentownosci firmy, strata lub checia zostania monopolista.. Istotna jest motywacja tego w jakim srodowisku sie to robi i w jakim celu, a naganne jest wtedy gdy inna osoba na tym traci, wzglednie gdy sam spekulant traci zmysly.
 
+### Dlaczego gra na giełdyie nie zawsze jest spekulacją i dlaczego w większości jest hazardem?
+podobnie ma miejsce w kryptowalutach, gdzie posiadając zbyt małą wiedzę i wpływ nie można spekulaować, gdyż to czy kupimy czy sprzedamy na małym wolumenie nie ma wpływu na kurs
+
+
+
