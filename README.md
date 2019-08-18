@@ -1,6 +1,7 @@
 # definicja spekulacji
 Wyjaśnienie znaczenia spekulacji na podstawie źródeł i analizy atrybutów
 
+
 ## Motywacja
 w związku z częstymi błędami w nazewnictwie i odróżnianiu spekulacji od inwestycji warto rozwinąć 
 i opisać w szeregu analizach i przykładach te definicje, aby każdy miał szanse sprawdzić co jest a co nie jest spekulacją i inwestycją.
@@ -12,9 +13,13 @@ Inny wpływ na nieprawidłowe wnioskowanie ma analizowanie spekulacji i inwestyc
 
 hazard - spekulacja - handel - inwestycja - rentierstwo - produkcja - usługi (praca na zlecenie) - etat (praca na czas)
 
+
 ### hazard - spekulacja
+hazard nie jest spekulacją, bo nie ma wpływu na cenę
 
 ### spekulacja - inwestycja
+to jaki jest cel wykorzystania wartości towaru świadczy o konsumpcji lub inwestycji
+to jaki jest cel zmiany ceny świadczy o dumpingu lub spekulacji
 
 ### handel (usługa wymiany) - produkcja (usługa wytwarzania)
 
@@ -57,11 +62,26 @@ Np. kupno towaru przeterminowanego bez informacji o tym.
 podwyższenie ceny wykorzystując monopol lub zmowę cenową w przypadku wielu sprzedawców
 zaniżenie ceny poniżej obiekwtywnej wartości to: dumping cenowy, mający na celu doprowadzenie do monopolu
 
+#### Dumping ceny
+
+Przykłady
++ długotrwały dumping cenowy - skrajna forma dumping"u cenowego, zaplanowana na zmniejszenie konkurencji jest nielegalny w Polsce
++ dumping ceny wynikający z niskiej rentowności firmy 
++ dumping cenowy zaplanowany w celu uzyskania wyższej chwilowej sprzedaży, jako działania marketingowe
+
+
 ### Stereotypy
 
 #### Spekulacja to krótki okres a inwestycja to dłuższy okres zwrotu z włożonych środków
 
+
+skrajną spekulacją jest ....
+
 #### Spekulacja to przeciwieństwo inwestycji
+
+
+#### Spekulacja to ponoszenie ryzyka 
+ryzyku jest cechą każdego działania i nie jest specyficzne dla spekulacji
 
 ### Inwestycja
 Inwestycja to przeciwieństwo konsumpcji.
@@ -267,3 +287,52 @@ dla odbiorcy usług, zatrudniającego poprzez delegowanie i możność zarządza
 #### Przykłady 
 ...
 
+
+### Definicje
+
+1. Wartość produktu dla konsumenta, tyle ile jest w stanie obecnie zapłacić
+  + na skutek działań marketingowych
+  + mając na uwadze dostępne alternatywne towary
+
+2. Wartość produktu dla producenta, na ile jest w stanie się zgodzić nie tracąc przy sprzedaży
+  + ta wartość wynika z kosztu wytworzenia i dystrybucji 
+  + pośrednio z ilości, gdyż przy większej ilości jest dostęp do niższych cen półproduktów, wytworzenia
+
+2a. Wartość produktu wynikająca z włożonej energii w jego powstanie jest często skorelowana z ceną rynkową, gdy nie ma monopolu ani zmowy cenowej, gdyż uzasadnia realny porównywalny koszt wytworzenia i kosztów dystrybucji.
+
+3. rynkowa cena produktu
+  + wynika z uzgodnionej pomiędzy sprzedawcami i kupującymi ceny, to wartość produktu w danym miejscu i czasie  
+
+4. spekulacyjna cena produktu
+  + często w przypadku monopolu w miejscu i czasie, np stacje benzynowe w określonych porach i miejscach zawyżają ceny paliw
+  + mając na uwadze odbiorców, którzy nie są świadomi ceny produktu, w skrajnym przypadku to oszustwo, gdy kupujący został wprowadzony w błąd poprzez nieprawdziwe dane lub poprzez zatajenie cech produktu obniżających wartość
+
+
+
+### Przypadki brane pod uwagę:
+
+manipulacja wartości towaru
++ obniżka: konsumpcja
++ podwyższenie: inwestycja
+
+### Przykład z samochodem/mieszkaniem:
+
+Zmiana wartości i na skutek tego zmiana ceny:
++ Inwestycja: wyremontować samochód i móc go sprzedać za wyższą cenę, sprzedać go nie tracąc na kosztach utrzymania
++ Konsumpcja: używać go lub nie, zużywając go lub tracąc na wartości w czasie. Konsumpcja bierna i czynna.
+
+Zmiana ceny (bez zmiany wartości):
++ Poprzez zewnętrzne czynniki, trendu, np zmiany cen na rynku, zmienia się popyt
++ Poprzez inicjowanie chwilowych zmian, w celu zmiany ceny bez wprowadzenia zmian w wartości:
+  + dumping 
+    + na skutek strat firmy i wyprzedaży
+    + w celu wyeliminowania konkurencji, zostając monopolistą    
+  + spekulacja
+    + zmiana ceny w określonych porach dnia, roku nie wynikajace ze zmiany wartości produktu czy wartości dla kupującego
++ Poprzez działania marketingowe, wyróżnienie oferty dla konkretnych kupujących
+
+
+manipulacja ceny ze wzrostem wartości rzeczy
+
+manipulacja ceny bez zmiany wartości rzeczy
+manipulacja ceny bez zmiany wartości dla kupującego
