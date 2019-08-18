@@ -32,6 +32,9 @@ inwestycja może trwać krótko, gdyż może dotyczyć zakupu rzeczy wykorzystan
 inwestycja jest nastawiona na dostarczenie wartości
 spekulacja jest nastawiona na zysk bez zwiększenia wartości korzystając z pozycji mającej wpływ na cenę na rynku, np. monopolu.
 
+#### spekulacją - prognozowanie
+w odniesieniu do częstych definicji, które zakładają, że spekulacja to każde ryzyko jakie ponosi człowiek
+
 
 ### handel (usługa wymiany) - produkcja (usługa wytwarzania)
 
@@ -82,7 +85,12 @@ Przykłady
 + dumping cenowy zaplanowany w celu uzyskania wyższej chwilowej sprzedaży, jako działania marketingowe
 
 
+
 ### Stereotypy
+
+#### spekulacją jest każde ludzkie działanie. 
+Każda osoba jest spekulantem w tym sensie, że dobiera środki do celów, określa oczekiwania w odniesieniu do przyszłości i pozostaje narażona w swych działaniach na ryzyko - stratę.
+
 
 #### Spekulacja to krótki okres a inwestycja to dłuższy okres zwrotu z włożonych środków
 
