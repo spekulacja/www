@@ -61,7 +61,9 @@ Natura spekulacji jest niezmienna od przedmiotu, czasu, obiektywnej wartości.
 Natura spekulacji jest bezpośrednio związana z ceną, czym różni się od handlu, gdzie może istnieć handel wymienny.
 Spekulacja nie chce wchodzić w wartość a kieruje się bezpośrednio w kupujących, bo jej celem jest sprzedaż za najwyższą cenę konkretnemu kupującemu, czym różni się od handlu, gdzie ofera jest publiczna i dowolna nawet w czasie niskiej podaży i wysokiego popytu.
 
-+ Skrajność w jaką wchodzi się ze spekulacją jest wiązanie kupującego w taki sposób z ofertą by nie miał wyboru lub uważał, że jest tego wyboru pozbawiony, wówczas są najbardziej sprzyjająceo warunku do spekulacji.
++ Skrajność w jakiej zachodzi spekulacja to wiązanie kupującego w taki sposób z ofertą, by nie miał wyboru lub uważał, że jest tego wyboru pozbawiony, wówczas są najbardziej sprzyjająceo warunku do spekulacji.
+
+Spekulacja jest nie możliwa na wolnym rynku, gdzie jest wolna konkurencja, więc nie występuje ona na giełdzie akcji, dopóki nie ma sie wystarczającego wolumenu by stworzyć warunki monopolistyczne.
 
 Inwestycja też ma na celu osiągnięcie najwyższej kwoty zwrotu, ale kieruje się na wartość tego co sprzedajemy a nie na kupujących.
 dzięki czemu jest jej bliżej do rentierstwa, gdzie osiąga się korzyści z realnie dostarczanej wartości, np przy wynajmie danej rzeczy.
