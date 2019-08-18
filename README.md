@@ -9,6 +9,14 @@ Ludzie często posługują się nietrafionymi przykładami kierując się intuic
 Wpływ na definicję ma kultura, gdzie uznaje się spekulację za naganną czynność a inwestycję za pozytywną i godną pochwały.
 Inny wpływ na nieprawidłowe wnioskowanie ma analizowanie spekulacji i inwestycji pod kątem nazewnictwa i procesów historycznych oraz czasu a nie na naturę, niezmienną od czasu, będącą funkcją, gdzie wynik zawsze będzie jednoznaczny.
 
+
+## Spekulant
+Spekulant – osoba zarabiająca na wahaniach cen. Skupuje ona dany produkt, licząc że jego cena wzrośnie w danym okresie, co z kolei daje możliwość jego odsprzedaży i zarobienia na różnicy cen.
+
+Spekulacja wiążę się z dużym ryzykiem. 
+https://pl.wikipedia.org/wiki/Spekulant
+
+
 ## Pokrewne definicje
 
 hazard - spekulacja - handel - inwestycja - rentierstwo - produkcja - usługi (praca na zlecenie) - etat (praca na czas)
@@ -397,4 +405,18 @@ poniżej kilka przykładów, jak nierzetelne źródła są prezentowane, to czys
 data publikacji: 2 Lipca 2010
 autor: Maciej Bitner
 https://www.nbportal.pl/wiedza/artykuly/na-poczatek/spekulacje-i-arbitraz-a-system0cen
+
+
+
+
+Spekulacja w PRL
+
+W okresie PRL było to pejoratywne określenie, będące jednym z elementów ówczesnej nowomowy, charakteryzujące drobnego handlarza[1]. Propaganda państwowa przedstawiała spekulantów jako odpowiedzialnych za niedobory w sklepach[1]. Ze „spekulacją” walczono na równi z przestępstwami kryminalnymi[1].
+
+Spekulacja była karalna w myśl uchwalonej 25 września 1981 r. przez Sejm ustawy o zwalczaniu spekulacji (Dz.U. z 1982 nr 36, poz. 243)[2]. 
+https://pl.wikipedia.org/wiki/Spekulant
+
+
+
+
 
