@@ -389,7 +389,11 @@ wymiana 1:1
 Na polu religijnym i moralnym spekulacja jest postrzegana negatywnie jako zachowanie egoistyczne, ponieważ może spowodować poważne szkody dla realnej gospodarki i wspólnego dobra
 
 
-### Definicje, które odbiegają od zasad logiki:
+### Definicje, które odbiegają od zasad logiki i semantyki
+poniżej kilka przykładów, jak nierzetelne źródła są prezentowane, to czysta propaganda, aby zmienić znaczenia słowa tak by dotyczyły każdego a tym samym nie wywoływały negatywnego oddźwięku a raczej wywoływały akceptację.
+
+"Każdy przedsiębiorca jest więc spekulantem; gdy opłaca czynniki produkcji, liczy na to, że wytworzony produkt sprzeda w przyszłości po wyższej cenie niż koszt opłaconej pracy, materiałów i innych dóbr kapitałowych. "
+
 data publikacji: 2 Lipca 2010
 autor: Maciej Bitner
 https://www.nbportal.pl/wiedza/artykuly/na-poczatek/spekulacje-i-arbitraz-a-system0cen
