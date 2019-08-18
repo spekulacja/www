@@ -329,10 +329,13 @@ Zmiana ceny (bez zmiany wartości):
     + w celu wyeliminowania konkurencji, zostając monopolistą    
   + spekulacja
     + zmiana ceny w określonych porach dnia, roku nie wynikajace ze zmiany wartości produktu czy wartości dla kupującego
-+ Poprzez działania marketingowe, wyróżnienie oferty dla konkretnych kupujących
+    
+### Podwyższenie ceny ze wzrostem wartości rzeczy:
++ Poprzez działania marketingowe, wyróżnienie oferty dla konkretnych kupujących, zaplanowanie działań marketingowych w celu podwyższenia wartości marki w odbiorze konsumentów
+
+#### Oszustwo
+Cena rynkowa sugerująca wartość rynkową, nie odzwierciedlająca realnej wartości rzeczy, zatajenie przed konsumentem wad lub braku funkcjonalności towaru
 
 
-manipulacja ceny ze wzrostem wartości rzeczy
 
-manipulacja ceny bez zmiany wartości rzeczy
-manipulacja ceny bez zmiany wartości dla kupującego
+
