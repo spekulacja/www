@@ -29,6 +29,9 @@ manipulacja na cenie może dotyczyć nie tylko wzrostu (spekulacji) ale obniżen
 czas trwania spekulacji czy inwestycji nie wpływa na definicję
 spekulacja jest obarczona większym ryzykiem niż inwestycja, bo mimo przewagi monopolistycznej nie można przewidzieć zachowania w skrajnych warunkach kupujących.
 inwestycja może trwać krótko, gdyż może dotyczyć zakupu rzeczy wykorzystanej do utworzenia wartości jednorazowo (edukacji, zakup książki) lub wielokrotnie (wykorzystanie zakupionego auta do pracy, np. jako taxi)
+inwestycja jest nastawiona na dostarczenie wartości
+spekulacja jest nastawiona na zysk bez zwiększenia wartości korzystając z pozycji mającej wpływ na cenę na rynku, np. monopolu.
+
 
 ### handel (usługa wymiany) - produkcja (usługa wytwarzania)
 
@@ -346,5 +349,11 @@ Zmiana ceny (bez zmiany wartości):
 Cena rynkowa sugerująca wartość rynkową, nie odzwierciedlająca realnej wartości rzeczy, zatajenie przed konsumentem wad lub braku funkcjonalności towaru
 
 
+### Domeny internetowe
+Ten sam towar/usługa może być inwestycją jak i spekulacją.
+Domena internetowa wykorzystywana we własnym celu, wówczas to konsumpcja
+jeśli ta sama domena zostanie wynajęta, to mówimy o inwestycji, bo jej przeznaczenie służy dostarczaniu wartości innym.
+jeśli następnie ta domena będzie wystawiona na aukcję publiczną w której uczestnicy wielu kupujących to mówimy o handlu,
+ale gdy ktoś o nią zapyta a my znając odbiorcę i jego możliwości finansowe będziemy się starali zaproponować wyższą cenę niż w przypadku sprzedaży na giełdzie, to mówimy o spekulacji, gdyż naszym celem nie jest sam produkt, a wykorzystanie pozycji jaką daje nam monopol na ten produkt.
 
 
