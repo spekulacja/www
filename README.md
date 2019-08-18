@@ -357,3 +357,6 @@ jeśli następnie ta domena będzie wystawiona na aukcję publiczną w której u
 ale gdy ktoś o nią zapyta a my znając odbiorcę i jego możliwości finansowe będziemy się starali zaproponować wyższą cenę niż w przypadku sprzedaży na giełdzie, to mówimy o spekulacji, gdyż naszym celem nie jest sam produkt, a wykorzystanie pozycji jaką daje nam monopol na ten produkt.
 
 
+### Od wymiany do ...
+wymiana towarow, czyli handel słuzy odsprzedazy za wyzsza cene i nie ma tu spekulacji, ona powstaje wtedy, gdy chcesz wplynac na wzrost ceny na rynku bez zmiany wartosci, spekulacja odnosi sie do "mozliwosci" podwyzszenia ceny za towar w ograniczonym czasie i miejscu i ma miejsce wielokrotnie w monopolu, w tym miejscu ludzie myla to z inwestycja, a inwestycja nie polega na przechiwaniu wartosci tylko na wykorzystaniu tej wartosci do wytworzenia innej wartosci. to jest trudne zagadnienie, jak dumping cenowy, ktory moze byc efektem nierentownosci firmy, strata lub checia zostania monopolista.. Istotna jest motywacja tego w jakim srodowisku sie to robi i w jakim celu, a naganne jest wtedy gdy inna osoba na tym traci, wzglednie gdy sam spekulant traci zmysly.
+
