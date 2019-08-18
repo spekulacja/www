@@ -389,6 +389,18 @@ możliwe jest czasowe wstrzymanie wymiany doprowadzając do ograniczenia w celu 
 + oligopol
 jak wyżej ale na rynku, gdzie teoretycznie spekulacja nie była by możliwa, gdyż klient ma wybór
 
+powyższe tworzą warunki sztucznego deficytu na towar.
+inny sztuczny deficyt powstaje w wyniku prawnych regulacji rządu: 
++ prohibicja, 
++ embargo, 
++ protekcjonizm, 
++ sankcje, 
++ cła, 
++ podatki, 
++ licencje, 
++ subwencje
+
+
 wymiana 1:1
 + wykorzystanie informacji o kupującym w celu uzyskania najwyższej jaką jest w stanie zapłacić, co sprowadza się do monopolu
 
