@@ -31,6 +31,10 @@ lub na ludzi zgadzających się na wyższą cenę w warunkach niskiej podaży i 
 
 hazard jest obarczony większym ryzykiem niż spekulacja, a spekulacja większym niż inwestycja, gdyż inwestycja opiera sie o wartośc rynkową a spekulacja o zawyżoną względem rynkowej ceny i stąd nie da sie przewidzieć realnych zysków, gdyż zakup jest dobrowolny, a celem jest uzyskanie jak najwyższej kwoty, która jest uzależniona od konkretnego kupującego.
 
+
+### spekulacja - handel
+spekulacja zachodzi w warunkach ograniczonego handlu, w przypadku monopolizacji i decydowania o cenie na skutek podaży
+
 ### spekulacja - inwestycja
 to jaki jest cel wykorzystania wartości towaru świadczy o konsumpcji lub inwestycji
 to jaki jest cel zmiany ceny świadczy o dumpingu lub spekulacji
