@@ -29,7 +29,7 @@ hazard nie jest spekulacją, bo nie ma wpływu na cenę
 gra na giełdzie jest hazardem gdy jest się małym graczem lub  spekulacją, gdy ma się odpowiedni wolumen by wpłynąć na cenę
 lub ludzie mający wpływ w inny sposób na kurs i świadomie go mogą kontrolować
 
-hazard jest obarczony większym ryzykiem niż spekulacja
+hazard jest obarczony większym ryzykiem niż spekulacja, a spekulacja większym niż inwestycja, gdyż inwestycja opiera sie o wartośc rynkową a spekulacja o zawyżoną względem rynkowej ceny i stąd nie da sie przewidzieć realnych zysków, gdyż zakup jest dobrowolny, a celem jest uzyskanie jak najwyższej kwoty, która jest uzależniona od konkretnego kupującego.
 
 ### spekulacja - inwestycja
 to jaki jest cel wykorzystania wartości towaru świadczy o konsumpcji lub inwestycji
