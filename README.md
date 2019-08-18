@@ -5,6 +5,7 @@ Wyjaśnienie znaczenia spekulacji na podstawie źródeł i analizy atrybutów
 ## Motywacja
 w związku z częstymi błędami w nazewnictwie i odróżnianiu spekulacji od inwestycji warto rozwinąć 
 i opisać w szeregu analizach i przykładach te definicje, aby każdy miał szanse sprawdzić co jest a co nie jest spekulacją i inwestycją.
+
 Ludzie często posługują się nietrafionymi przykładami kierując się intuicją.
 Wpływ na definicję ma kultura, gdzie uznaje się spekulację za naganną czynność a inwestycję za pozytywną i godną pochwały.
 Inny wpływ na nieprawidłowe wnioskowanie ma analizowanie spekulacji i inwestycji pod kątem nazewnictwa i procesów historycznych oraz czasu a nie na naturę, niezmienną od czasu, będącą funkcją, gdzie wynik zawsze będzie jednoznaczny.
@@ -24,9 +25,10 @@ hazard - spekulacja - handel - inwestycja - rentierstwo - produkcja - usługi (p
 
 ### hazard - spekulacja
 hazard nie jest spekulacją, bo nie ma wpływu na cenę
-gra na giełdzie jest hazardem gdy jest się małym graczem
-i jest spekulacją gdy prowadzą je monopoliści
+
+gra na giełdzie jest hazardem gdy jest się małym graczem lub  spekulacją, gdy ma się odpowiedni wolumen by wpłynąć na cenę
 lub ludzie mający wpływ w inny sposób na kurs i świadomie go mogą kontrolować
+
 hazard jest obarczony większym ryzykiem niż spekulacja
 
 ### spekulacja - inwestycja
