@@ -407,7 +407,7 @@ inny sztuczny deficyt powstaje w wyniku prawnych regulacji rządu:
 
 
 wymiana 1:1
-+ wykorzystanie informacji o kupującym w celu uzyskania najwyższej jaką jest w stanie zapłacić, co sprowadza się do monopolu
++ wykorzystanie informacji o kupującym w celu uzyskania najwyższej ceny jaką jest w stanie zapłacić, co sprowadza się do uzyskania monopolu.
 
 
 ### Negatywny wydźwięk
