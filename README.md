@@ -16,10 +16,19 @@ hazard - spekulacja - handel - inwestycja - rentierstwo - produkcja - usługi (p
 
 ### hazard - spekulacja
 hazard nie jest spekulacją, bo nie ma wpływu na cenę
+gra na giełdzie jest hazardem gdy jest się małym graczem
+i jest spekulacją gdy prowadzą je monopoliści
+lub ludzie mający wpływ w inny sposób na kurs i świadomie go mogą kontrolować
+hazard jest obarczony większym ryzykiem niż spekulacja
 
 ### spekulacja - inwestycja
 to jaki jest cel wykorzystania wartości towaru świadczy o konsumpcji lub inwestycji
 to jaki jest cel zmiany ceny świadczy o dumpingu lub spekulacji
+manipulacja na cenie może dotyczyć nie tylko wzrostu (spekulacji) ale obniżenia, wtedy jest dumpingiem
+
+czas trwania spekulacji czy inwestycji nie wpływa na definicję
+spekulacja jest obarczona większym ryzykiem niż inwestycja, bo mimo przewagi monopolistycznej nie można przewidzieć zachowania w skrajnych warunkach kupujących.
+inwestycja może trwać krótko, gdyż może dotyczyć zakupu rzeczy wykorzystanej do utworzenia wartości jednorazowo (edukacji, zakup książki) lub wielokrotnie (wykorzystanie zakupionego auta do pracy, np. jako taxi)
 
 ### handel (usługa wymiany) - produkcja (usługa wytwarzania)
 
