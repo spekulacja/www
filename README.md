@@ -8,13 +8,15 @@ i opisać w szeregu analizach i przykładach te definicje, aby każdy miał szan
 
 ### Intuicyjne znaczenie
 Ludzie często posługują się nietrafionymi przykładami kierując się intuicją.
+
 Wpływ na definicję ma kultura, gdzie uznaje się spekulację za naganną czynność a inwestycję za pozytywną i godną pochwały.
 Inny wpływ na nieprawidłowe wnioskowanie ma analizowanie spekulacji i inwestycji pod kątem nazewnictwa i procesów historycznych oraz czasu a nie na naturę, niezmienną od czasu, będącą funkcją, gdzie wynik zawsze będzie jednoznaczny.
 
 ### Postrzeganie 
 Dlaczego tak trudno o jednolitą definicję i postrzeganie spekulacji?
-Dlaczego zmienia się ona na sprzestrzeni i teraz prawie każdego możnaby nazwać spekulantem przkonując do swojej definicji?
-Warto poznać historię powstania etymologię, aby nie dać się przekonać do definicji i w następstwie do czynów, które na skutek dewaluacji słowa spekulacja zostały określone jako pożyteczne a wręcz pożadane a w skutkach niosące szkodę innym ludziom.
+
+Dlaczego zmienia się ona na przestrzeni dziejów i teraz prawie każdego można by nazwać spekulantem przkonując do swojej definicji?
+Warto poznać historię powstania spekulacji - etymologię słowa, aby nie dać się przekonać do definicji i w następstwie do czynów, które na skutek dewaluacji słowa spekulacja zostały określone jako pożyteczne a wręcz pożadane a w skutkach niosące szkodę innym ludziom.
 
 ### Etymologia
 - proszę we własnym zakresie sprawdzić etymologię, np w różnych językach na wikipedii.
