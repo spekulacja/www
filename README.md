@@ -464,5 +464,26 @@ https://pl.wikipedia.org/wiki/Spekulant
 
 
 
+### Jakie są skutki dewaluacji znaczenia słowa?
+
+
+### Przykład
+słowo jakie zamierzamy zdewaluować: prostytucja, osoba: prostytutka
+
+#### Teza:
+W zasadzie każda kobieta i mężczyzna dopuszczają się tego gdy w zamian za mile spędzony czas "uprawiają seks"
+
+#### Fakty:
+W związkach nie ma mowy o prostytucji, gdyż te relacje określa prawo i prostytucja ma wymiar szerszy, nie można jej zawęzić do jednej relacji
+
+#### Oczekiwany efekt:
+Jeśli każdy przyzna przed sobą, że dopuszcza się prostytucji w związku to łatwiej mu będzie zrobić krok dalej i dopuścić się faktycznej prostytucji, skoro nie ma różnicy
+
+Tak działają zmiany na przestrzeni wielu pokoleń i to co kiedyś było naganne obecnie ma wydźwięk neutralny, na zasadzie, że każdy to robi, więc nie jest to takie złe.
+
+
+
+
+
 
 
