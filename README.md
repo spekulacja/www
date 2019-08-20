@@ -42,6 +42,9 @@ Spekulant – osoba zarabiająca na wahaniach cen. Skupuje ona dany produkt, lic
 Spekulacja wiążę się z dużym ryzykiem. 
 https://pl.wikipedia.org/wiki/Spekulant
 
+## Hazardzista
+osoba, która decyduje uczestniczyć się w grze z elementami losowości (występującymi w mniejszym lub większym stopniu), ryzykując pieniądze lub inne dobra w celu uzyskania wypłaty w formie pieniędzy, prestiżu, czy po prostu zadowolenia. 
+https://pl.wikipedia.org/wiki/Hazardzista
 
 ## Pokrewne definicje
 
