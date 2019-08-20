@@ -6,9 +6,32 @@ Wyjaśnienie znaczenia spekulacji na podstawie źródeł i analizy atrybutów
 w związku z częstymi błędami w nazewnictwie i odróżnianiu spekulacji od inwestycji warto rozwinąć 
 i opisać w szeregu analizach i przykładach te definicje, aby każdy miał szanse sprawdzić co jest a co nie jest spekulacją i inwestycją.
 
+### Intuicyjne znaczenie
 Ludzie często posługują się nietrafionymi przykładami kierując się intuicją.
 Wpływ na definicję ma kultura, gdzie uznaje się spekulację za naganną czynność a inwestycję za pozytywną i godną pochwały.
 Inny wpływ na nieprawidłowe wnioskowanie ma analizowanie spekulacji i inwestycji pod kątem nazewnictwa i procesów historycznych oraz czasu a nie na naturę, niezmienną od czasu, będącą funkcją, gdzie wynik zawsze będzie jednoznaczny.
+
+### Postrzeganie 
+Dlaczego tak trudno o jednolitą definicję i postrzeganie spekulacji?
+Dlaczego zmienia się ona na sprzestrzeni i teraz prawie każdego możnaby nazwać spekulantem przkonując do swojej definicji?
+Warto poznać historię powstania etymologię, aby nie dać się przekonać do definicji i w następstwie do czynów, które na skutek dewaluacji słowa spekulacja zostały określone jako pożyteczne a wręcz pożadane a w skutkach niosące szkodę innym ludziom.
+
+### Etymologia
+- proszę we własnym zakresie sprawdzić etymologię, np w różnych językach na wikipedii.
+najlepiej kolejno: Spekulacja, spekulant, cinkciarz, by upwenić się, gdzie są rozbieżności, gdyż przejrzyściej są ujęte osobowe znaczenia tych definicji:
+
+https://pl.wikipedia.org/wiki/Spekulacja
+https://pl.wikipedia.org/wiki/Spekulant
+https://pl.wikipedia.org/wiki/Cinkciarz
+https://pl.wikipedia.org/wiki/Hazard
+https://pl.wikipedia.org/wiki/Hazardzista
+
+Angielski:
++ speculator: spekulant, geszefciarz
++ plunger: tłok nurnikowy, nurek, hazardzista, spekulant, guzik wciskany
++ profiteer: paskarz, spekulant, geszefciarz
++ gambler: gracz, hazardzista, karciarz, ryzykant, spekulant
+
 
 
 ## Spekulant
