@@ -498,7 +498,7 @@ zarobek: prowizja od wymiany
 + wydobycie jako miner lub:
 + giełda krypto zwiększająca nakłday na reklamę, lepsze metody, efektywniejsze dystrybucji
 
-zarobek: partycypowanie w zyskach firmy
+zarobek: partycypowanie w zyskach (firmy, organizacji, procesu)
 
 
 ## spekulacja
