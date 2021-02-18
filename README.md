@@ -489,21 +489,24 @@ Tak działają zmiany na przestrzeni wielu pokoleń i to co kiedyś było nagann
 
 ## handel
 + giełddy kryptowalut wymieniające i zarabiające na prowizji
-+ zarobek: prowizja od wymiany
+
+zarobek: prowizja od wymiany
 
 
 ## inwestycja
 + w efektywnosc biznesu, czyli 
 + wydobycie jako miner lub:
 + giełda krypto zwiększająca nakłday na reklamę, lepsze metody, efektywniejsze dystrybucji
-+ zarobek: partycypowanie w zyskach firmy
+
+zarobek: partycypowanie w zyskach firmy
 
 
 ## spekulacja
 + influencer gdy ma wplyw na kupujących
 + kupuje żeby zyskac w czsie, miejscu, prohibicja
 + nastawia na duze zmiany cen a nie dystrybucje
-+ zarobek: partycypowanie w różnicy cen przy sprzedaży/zakupie na skutek swojej lub czyjejś zamierzonej działalności
+
+zarobek: partycypowanie w różnicy cen przy sprzedaży/zakupie na skutek swojej lub czyjejś zamierzonej działalności
 
 
 ## hazard
@@ -511,6 +514,7 @@ Tak działają zmiany na przestrzeni wielu pokoleń i to co kiedyś było nagann
 + ma wpływ na cenę?
 + czy ma rzetelne źródło danych?
 
+zarobek: na skutek korzystnego zbiegu okoliczności
 
 
 
