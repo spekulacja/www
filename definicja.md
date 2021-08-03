@@ -1,4 +1,4 @@
-# definicja spekulacji
+# Definicja spekulacji
 Wyjaśnienie znaczenia spekulacji na podstawie źródeł i analizy atrybutów
 
 
@@ -6,19 +6,27 @@ Wyjaśnienie znaczenia spekulacji na podstawie źródeł i analizy atrybutów
 w związku z częstymi błędami w nazewnictwie i odróżnianiu spekulacji od inwestycji warto rozwinąć 
 i opisać w szeregu analizach i przykładach te definicje, aby każdy miał szanse sprawdzić co jest a co nie jest spekulacją i inwestycją.
 
-### Intuicyjne znaczenie
-Ludzie często posługują się nietrafionymi przykładami kierując się intuicją.
+### Czynniki kształtujące znaczenie definicji
 
-Wpływ na definicję ma kultura, gdzie uznaje się spekulację za naganną czynność a inwestycję za pozytywną i godną pochwały.
-Inny wpływ na nieprawidłowe wnioskowanie ma analizowanie spekulacji i inwestycji pod kątem nazewnictwa i procesów historycznych oraz czasu a nie na naturę, niezmienną od czasu, będącą funkcją, gdzie wynik zawsze będzie jednoznaczny.
+W kontekście spekulacji znaczenie mają:
++ propaganda
++ kultura/wartości
++ stereotypy
+
+
+Posługiwanie się nietrafionymi przykładami i wnioskowaniem bywa rezultatem stereotypów.
+Wpływ na definicję ma kultura, gdzie uznaje się spekulację za naganną czynność a inwestycję za pozytywną i godną pochwały, co miało miejsce w przeszłości gdy państwo wprowadzało limity i oskarżało spekulantów za sprzedaż niedostępnych dóbr za cenę wyższą niż ustaloną przez rząd.
+Analiza spekulacji i inwestycji pod kątem czasu trwania nie powinno mieć wpływu na definicję, gdyż natura pozostaje niezmienna, gdyż wynika ona z celu a nie czasu trwania.
 
 ### Postrzeganie 
+
 Dlaczego tak trudno o jednolitą definicję i postrzeganie spekulacji?
 
 Dlaczego zmienia się ona na przestrzeni dziejów i teraz prawie każdego można by nazwać spekulantem przkonując do swojej definicji?
 Warto poznać historię powstania spekulacji - etymologię słowa, aby nie dać się przekonać do definicji i w następstwie do czynów, które na skutek dewaluacji słowa spekulacja zostały określone jako pożyteczne a wręcz pożadane a w skutkach niosące szkodę innym ludziom.
 
 ### Etymologia
+
 - proszę we własnym zakresie sprawdzić etymologię, np w różnych językach na wikipedii.
 najlepiej kolejno: Spekulacja, spekulant, cinkciarz, by upwenić się, gdzie są rozbieżności, gdyż przejrzyściej są ujęte osobowe znaczenia tych definicji:
 
