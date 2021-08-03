@@ -2,6 +2,6 @@
 
 Wyjaśnienie znaczenia spekulacji na podstawie źródeł i analizy
 
-+ [SPEKULACJA - definicja](SPEKULACJA.md)
++ [SPEKULACJA - definicja](definicja.md)
 + [Pytania](PYTANIA.md)
 + [opinie](OPINIE.md)
