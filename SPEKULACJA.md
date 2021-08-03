@@ -420,26 +420,32 @@ Możemy jedynie mówić o spekulacji mając wiedzę na temat planów mających w
 
 
 ### Jakie warunki sprzyjają spekulacji, kiedy do niej dochodzi?
-wymiana jeden do wielu
+
+#### wymiana 1:1
++ wykorzystanie informacji o kupującym w celu uzyskania najwyższej ceny jaką jest w stanie zapłacić
+
+#### wymiana jeden do wielu
 + monopol
+
+#### sztuczne ograniczenie, zmowa
 możliwe jest czasowe wstrzymanie wymiany doprowadzając do ograniczenia w celu wpływania na podaż i podwyższenie ceny
 + oligopol
+
+#### naturalny deficyt
 jak wyżej ale na rynku, gdzie teoretycznie spekulacja nie była by możliwa, gdyż klient ma wybór
 
-powyższe tworzą warunki sztucznego deficytu na towar.
-inny sztuczny deficyt powstaje w wyniku prawnych regulacji rządu: 
-+ prohibicja, 
-+ embargo, 
-+ protekcjonizm, 
-+ sankcje, 
-+ cła, 
-+ podatki, 
-+ licencje, 
+#### polityczna ingerencja
+
+Wszystkie powyższe tworzą warunki sztucznego deficytu na towar, inny sztuczny deficyt powstaje w wyniku prawnych regulacji rządu: 
++ prohibicja
++ embargo
++ protekcjonizm
++ sankcje
++ cła
++ podatki 
++ licencje
 + subwencje
 
-
-wymiana 1:1
-+ wykorzystanie informacji o kupującym w celu uzyskania najwyższej ceny jaką jest w stanie zapłacić, co sprowadza się do uzyskania monopolu.
 
 
 ### Negatywny wydźwięk
@@ -457,10 +463,10 @@ https://www.nbportal.pl/wiedza/artykuly/na-poczatek/spekulacje-i-arbitraz-a-syst
 
 
 
-
 Spekulacja w PRL
 
-W okresie PRL było to pejoratywne określenie, będące jednym z elementów ówczesnej nowomowy, charakteryzujące drobnego handlarza[1]. Propaganda państwowa przedstawiała spekulantów jako odpowiedzialnych za niedobory w sklepach[1]. Ze „spekulacją” walczono na równi z przestępstwami kryminalnymi[1].
+W okresie PRL było to pejoratywne określenie, będące jednym z elementów ówczesnej nowomowy, charakteryzujące drobnego handlarza[1]. Propaganda państwowa przedstawiała spekulantów jako odpowiedzialnych za niedobory w sklepach[1]. 
+Ze "spekulacją" walczono na równi z przestępstwami kryminalnymi[1].
 
 Spekulacja była karalna w myśl uchwalonej 25 września 1981 r. przez Sejm ustawy o zwalczaniu spekulacji (Dz.U. z 1982 nr 36, poz. 243)[2]. 
 https://pl.wikipedia.org/wiki/Spekulant
@@ -485,7 +491,7 @@ Jeśli każdy przyzna przed sobą, że dopuszcza się prostytucji w związku to 
 Tak działają zmiany na przestrzeni wielu pokoleń i to co kiedyś było naganne obecnie ma wydźwięk neutralny, na zasadzie, że każdy to robi, więc nie jest to takie złe.
 
 
-# Przykład analizy w apsekcie krypto
+# Przykład analizy w apsekcie kryptowalut
 
 ## handel
 + giełddy kryptowalut wymieniające i zarabiające na prowizji
