@@ -1,4 +1,5 @@
-# www
+# [spekulanty.pl](https://www.spekulanty.pl/)
+
 Wyjaśnienie znaczenia spekulacji na podstawie źródeł i analizy
 
-+ [SPEKULACJA](SPEKULACJA.md)
++ [SPEKULACJA - definicja](SPEKULACJA.md)
