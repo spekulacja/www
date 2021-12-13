@@ -6,9 +6,17 @@ Wyjaśnienie znaczenia spekulacji na podstawie źródeł i analizy atrybutów
 w związku z częstymi błędami w nazewnictwie i odróżnianiu spekulacji od inwestycji warto rozwinąć 
 i opisać w szeregu analizach i przykładach te definicje, aby każdy miał szanse sprawdzić co jest a co nie jest spekulacją i inwestycją.
 
+Istotny jest zamiar i zdolność do jego urzeczywistnienia.
+
+Wchodząc do kasyna możemy chcieć spekulować albo inwestować, ale to gra losowa więc nie mamy fizycznie możliwości wpływania na wynik.
+Tak jak na rynku kryptowalut większość nie ma wpływu na wynik, uprawiając tym samym hazard a reszta spekulując informacją wpływa na wynik krótkotemrinowo.
+Kto inwestuje? giełda, górnicy i platformy zarabiające na pośrednictwem, także ułamek, ale w powszechnym nazwnictwie rzadko mówi się o hazardzie czy spekulacji.
+
+To jedne z powodów dla których warto zagłebić się w genezę słowa spekulacja, by nie mijać się z prawdą...
+
 ### Czynniki kształtujące znaczenie definicji
 
-W kontekście spekulacji znaczenie mają:
+W kontekście rozumienia znaczenia spekulacji wpływ mają:
 + propaganda
 + kultura/wartości
 + stereotypy
