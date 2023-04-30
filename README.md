@@ -1,10 +1,10 @@
-# [spekulanty.pl](https://www.spekulanty.pl/)
+# Spekulacja [spekulacja.github.io](https://spekulacja.github.io/www/)
 
 Wyjaśnienie znaczenia spekulacji na podstawie źródeł i analizy
 
-+ [SPEKULACJA - definicja](definicja.md)
-+ [Pytania i Odpowiedzi](PYTANIA.md)
-+ [Opinie znalezione w internecie](OPINIE.md)
++ [SPEKULACJA - definicja](https://spekulacja.github.io/www/definicja.md)
++ [Pytania i Odpowiedzi](https://spekulacja.github.io/www/PYTANIA.md)
++ [Opinie znalezione w internecie](https://spekulacja.github.io/www/OPINIE.md)
 
 
 
