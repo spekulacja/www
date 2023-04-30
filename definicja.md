@@ -539,6 +539,12 @@ zarobek: partycypowanie w różnicy cen przy sprzedaży/zakupie na skutek swojej
 zarobek: na skutek korzystnego zbiegu okoliczności
 
 
+## Porównanie
+
++ Inwestycja odnosi się do włożonego wkładu środków materialnych i niematerialnych
++ Spekulacja odnosi się do uzyskania największej różnicy ceny bez inwestycji
++ Hazard odnosi się do uzyskania wygranej bez udziału spekulacji i inwestycji
+
 
 ---
 
