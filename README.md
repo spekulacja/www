@@ -2,9 +2,9 @@
 
 Wyjaśnienie znaczenia spekulacji na podstawie źródeł i analizy
 
-+ [SPEKULACJA - definicja](https://spekulacja.github.io/www/definicja.md)
-+ [Pytania i Odpowiedzi](https://spekulacja.github.io/www/PYTANIA.md)
-+ [Opinie znalezione w internecie](https://spekulacja.github.io/www/OPINIE.md)
++ [SPEKULACJA - definicja](https://spekulacja.github.io/www/definicja)
++ [Pytania i Odpowiedzi](https://spekulacja.github.io/www/PYTANIA)
++ [Opinie znalezione w internecie](https://spekulacja.github.io/www/OPINIE)
 
 
 
